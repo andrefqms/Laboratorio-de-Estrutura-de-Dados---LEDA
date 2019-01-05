@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-02T01:00:50.660-0300</date>
+  <logger>ANDRE FILIPE QUEIROZ DE MELO E SOARES</logger>
+  <level>FINE</level>
+  <message>File 116210818-ANDRE FILIPE QUEIROZ DE MELO E SOARES.zip was received. It was sent by ANDRE FILIPE QUEIROZ DE MELO E SOARES from IP 192.168.1.7</message>
+</record>
