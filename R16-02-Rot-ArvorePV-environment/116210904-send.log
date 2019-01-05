@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-22T14:24:03.609-0300</date>
+  <logger>FERNANDO JORGE PEREIRA JUNIOR</logger>
+  <level>FINE</level>
+  <message>File 116210904-FERNANDO JORGE PEREIRA JUNIOR.zip was received. It was sent by FERNANDO JORGE PEREIRA JUNIOR from IP 192.168.1.13</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T12:09:52.073-0300</date>
+  <logger>FERNANDO JORGE PEREIRA JUNIOR</logger>
+  <level>FINE</level>
+  <message>File 116210904-FERNANDO JORGE PEREIRA JUNIOR.zip was received. It was sent by FERNANDO JORGE PEREIRA JUNIOR from IP 192.168.1.13</message>
+</record>

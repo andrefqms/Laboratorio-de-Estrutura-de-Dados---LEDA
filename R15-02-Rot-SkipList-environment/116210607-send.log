@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-19T16:23:58.575-0300</date>
+  <logger>DANIEL JOSE DI NAVARONNE GAUDENCIO LEITE</logger>
+  <level>FINE</level>
+  <message>File 116210607-DANIEL JOSE DI NAVARONNE GAUDENCIO LEITE.zip was received. It was sent by DANIEL JOSE DI NAVARONNE GAUDENCIO LEITE from IP 150.165.74.102</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-19T16:50:35.174-0300</date>
+  <logger>DANIEL JOSE DI NAVARONNE GAUDENCIO LEITE</logger>
+  <level>FINE</level>
+  <message>File 116210607-DANIEL JOSE DI NAVARONNE GAUDENCIO LEITE.zip was received. It was sent by DANIEL JOSE DI NAVARONNE GAUDENCIO LEITE from IP 150.165.42.128</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-20T12:47:21.915-0300</date>
+  <logger>DANIEL JOSE DI NAVARONNE GAUDENCIO LEITE</logger>
+  <level>FINE</level>
+  <message>File 116210607-DANIEL JOSE DI NAVARONNE GAUDENCIO LEITE.zip was received. It was sent by DANIEL JOSE DI NAVARONNE GAUDENCIO LEITE from IP 192.168.1.13</message>
+</record>
