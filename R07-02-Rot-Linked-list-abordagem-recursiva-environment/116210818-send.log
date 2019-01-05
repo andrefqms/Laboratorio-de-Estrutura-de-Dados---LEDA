@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-08T16:26:51.579-0300</date>
+  <logger>ANDRE FILIPE QUEIROZ DE MELO E SOARES</logger>
+  <level>FINE</level>
+  <message>File 116210818-ANDRE FILIPE QUEIROZ DE MELO E SOARES.zip was received. It was sent by ANDRE FILIPE QUEIROZ DE MELO E SOARES from IP 192.168.10.104</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-08T16:56:20.653-0300</date>
+  <logger>ANDRE FILIPE QUEIROZ DE MELO E SOARES</logger>
+  <level>FINE</level>
+  <message>File 116210818-ANDRE FILIPE QUEIROZ DE MELO E SOARES.zip was received. It was sent by ANDRE FILIPE QUEIROZ DE MELO E SOARES from IP 192.168.1.7</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-09T23:23:22.272-0300</date>
+  <logger>ANDRE FILIPE QUEIROZ DE MELO E SOARES</logger>
+  <level>FINE</level>
+  <message>File 116210818-ANDRE FILIPE QUEIROZ DE MELO E SOARES.zip was received. It was sent by ANDRE FILIPE QUEIROZ DE MELO E SOARES from IP 192.168.1.7</message>
+</record>

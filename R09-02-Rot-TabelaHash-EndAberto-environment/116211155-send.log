@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-20T12:26:23.617-0300</date>
+  <logger>ARTHUR FERNANDES DE ANDRADE</logger>
+  <level>FINE</level>
+  <message>File 116211155-ARTHUR FERNANDES DE ANDRADE.zip was received. It was sent by ARTHUR FERNANDES DE ANDRADE from IP 192.168.1.13</message>
+</record>
